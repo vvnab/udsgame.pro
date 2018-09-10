@@ -1,2 +1,2 @@
 # udsgame
-http://vvnab.site/udsgame
+http://vvnab.site/udsgame.pro
